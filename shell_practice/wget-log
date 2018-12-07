@@ -1,0 +1,11 @@
+--2018-12-07 14:36:56--  https://images.pexels.com/photos/356378/pexels-photo-356378.jpeg?auto=compress
+images.pexels.com (images.pexels.com) をDNSに問いあわせています... 104.16.238.112, 104.16.239.112, 104.16.240.112, ...
+images.pexels.com (images.pexels.com)|104.16.238.112|:443 に接続しています... 接続しました。
+HTTP による接続要求を送信しました、応答を待っています... 200 OK
+長さ: 特定できません [image/jpeg]
+`pexels-photo-356378.jpeg?auto=compress' に保存中
+
+pexels-photo-356378.jpeg?auto=compress        [<=>                                                                                  ]       0  --.-KB/s               pexels-photo-356378.jpeg?auto=compress        [ <=>                                                                                 ]   1.16M  5.79MB/s               pexels-photo-356378.jpeg?auto=compress        [  <=>                                                                                ]   1.24M  5.86MB/s 時間 0.2s     
+
+2018-12-07 14:36:59 (5.86 MB/s) - `pexels-photo-356378.jpeg?auto=compress' へ保存終了 [1304704]
+
